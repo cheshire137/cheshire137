@@ -1,1 +1,1 @@
-# :wave:
+:wave: I'm a dev at GitHub, currently working on the Discussions feature. :sparkles: My side projects usually revolve around whatever game I'm playing at the moment, e.g., [cheshire137/competiwatch-desktop](https://github.com/cheshire137/competiwatch-desktop) for tracking competitive Overwatch matches. I also love open data and civic APIs that I can build cool things from, e.g., [cheshire137/nash-grave-plot](https://github.com/cheshire137/nash-grave-plot).
